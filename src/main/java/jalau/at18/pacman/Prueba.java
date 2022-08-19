@@ -11,7 +11,6 @@ public class Prueba {
         public static void main(String[] args) {
                 Scanner keyword = new Scanner(System.in);
                 // String arr[][] = new String[29][25];
-
                 // Desing the pacman map
                 String arr[][] = {
                                 { "▒", "▒", "▒", "▒", "▒", "▒", "▒", "▒", "▒", "▒", "▒", "▒", "▒", "▒", "▒", "▒", "▒",
